@@ -1,6 +1,6 @@
 /* Data Cleaning in SQL
 Dataset - NashvilleHousing -> Size: 56,000 rows
-Skills used - Case Statement, Functions like Charindex(), ParseName(), Substring()
+Skills used - Case Statement, Charindex(), ParseName(), Substring()
 */
 
 SELECT *
