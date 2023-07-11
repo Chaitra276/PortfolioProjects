@@ -1,5 +1,6 @@
 # Portfolio Projects
-Contains three projects:
-1. Data Cleaning performed on Nashville Housing Data using SQL
-2. COVID-19 Data Exploration using SQL
-3. Bike Sales Dashboard in Excel
+Consists of four projects:
+1. Data Cleaning using SQL
+2. Data Exploration using SQL
+3. Excel Dashboard
+4. Tableau Visualization
