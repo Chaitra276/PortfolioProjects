@@ -1,5 +1,6 @@
 /*
 Covid-19 Data Exploration 
+Datasets - CovidDeaths, CovidVaccinations -> Size: 85,000 rows each
 Skills used: Aggregate Functions, Converting Data Types, Joins, Window Functions with Partition By(), CTEs, Temp Tables, Views
 */
 
