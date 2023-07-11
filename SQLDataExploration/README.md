@@ -1,3 +1,3 @@
 This folder consists of:
-Datasets - CovidDeaths, CovidVaccinations
-SQL script - COVID-19_Exploration
+1. Datasets - CovidDeaths, CovidVaccinations
+2. SQL script - COVID-19_Exploration
